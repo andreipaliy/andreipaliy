@@ -13,7 +13,6 @@ I focus on usability, performance, and business value while taking ownership acr
 
 I value clean code, sharp UX, and results that make sense.
 
----
 
 ## 🛠 Tech Stack
 
@@ -27,7 +26,6 @@ I value clean code, sharp UX, and results that make sense.
 
 `Node.js`, `MongoDB`, `GitHub Actions`, `Figma`, `UiPath`, `Git`, `Parcel`, `Web Workers`
 
----
 
 ## 🧑‍💻 Experience
 
@@ -44,7 +42,6 @@ I value clean code, sharp UX, and results that make sense.
 
 **Tech:** TypeScript, React, Next.js, Redux Toolkit, Vite, Storybook, Tailwind CSS, Stencil.js, PostCSS, Jest, React Testing Library, Cypress, React Query
 
----
 
 ### 🏢 **BitVelox** (06/2021 – 05/2022)
 
@@ -56,7 +53,6 @@ I value clean code, sharp UX, and results that make sense.
 
 **Tech:** React, Redux, Webpack, Storybook, Material-UI, GraphQL, Jest, React Testing Library
 
----
 
 ## 🎓 Education
 
@@ -64,7 +60,6 @@ I value clean code, sharp UX, and results that make sense.
 _Master's_ — Applied Informatics and Computer Science (2021–2023)  
 _Bachelor’s_ — Electrical and Electronic Engineering (2017–2021)
 
----
 
 ## 🚀 What I’m Focused On
 
